@@ -1,0 +1,6 @@
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\Huge Gun Game.csprojResolveAssemblyReference.cache
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\Huge Gun Game.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\Huge Gun Game.pdb
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\InfinityScript.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\Huge Gun Game.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\Huge Gun Game.pdb

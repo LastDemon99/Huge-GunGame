@@ -1,0 +1,8 @@
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\HugeGunGame.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\HugeGunGame.pdb
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\bin\Debug\InfinityScript.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\HugeGunGame.dll
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\HugeGunGame.pdb
+D:\Call of Duty Modern Warfare 3\scripts\HugeGunGame.dll
+D:\Call of Duty Modern Warfare 3\scripts\HugeGunGame.pdb
+C:\Users\luist\OneDrive\Escritorio\varios\IS\Modes\Huge Gun Game\Huge Gun Game\obj\Debug\HugeGunGame.csprojResolveAssemblyReference.cache
